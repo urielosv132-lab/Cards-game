@@ -1,0 +1,353 @@
+[
+  {
+    "id": "CARD-001",
+    "name": "Okarun",
+    "attack": 21,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Hiper velocidad hace que sea bastante consecutivos rápidamente."
+  },
+  {
+    "id": "CARD-002",
+    "name": "Yuta",
+    "attack": 65,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Usa magia para lanzar cualquier tipo de poder."
+  },
+  {
+    "id": "CARD-003",
+    "name": "Bakugo",
+    "attack": 55,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Usa sus manos para provocar explosiones sin tanta potencia."
+  },
+  {
+    "id": "CARD-004",
+    "name": "Dio",
+    "attack": 75,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Hace que el siguiente turno tenga un golpe garantizado por detener el tiempo."
+  },
+  {
+    "id": "CARD-005",
+    "name": "Saitama",
+    "attack": 82,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Usa sus nudillos para golpear."
+  },
+  {
+    "id": "CARD-006",
+    "name": "Mahoraga",
+    "attack": 74,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Se adapta de cualquier proyectil, golpe o explosión."
+  },
+  {
+    "id": "CARD-007",
+    "name": "Denji",
+    "attack": 47,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Usa su cuerpo como una motosierra viviente."
+  },
+  {
+    "id": "CARD-008",
+    "name": "Jesus",
+    "attack": 87,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Desintegra al oponente al hacer un pegado de su religión."
+  },
+  {
+    "id": "CARD-009",
+    "name": "Reze",
+    "attack": 45,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Usa su cuerpo como explosivo haciendo explosiones gigantescas."
+  },
+  {
+    "id": "CARD-010",
+    "name": "Mahito",
+    "attack": 32,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Hace que sus oponentes sufran alguna deformidad."
+  },
+  {
+    "id": "CARD-011",
+    "name": "Choso",
+    "attack": 30,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Usa su propia sangre como arma haciendo que te entren infecciones o alguna enfermedad rápidamente."
+  },
+  {
+    "id": "CARD-012",
+    "name": "Gojo",
+    "attack": 65,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Usa los cálculos matemáticos para usar magia con experiencia."
+  },
+  {
+    "id": "CARD-013",
+    "name": "Tim loco",
+    "attack": 77,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Hace que tu cuerpo esté débil ante su levantamiento de ceja."
+  },
+  {
+    "id": "CARD-014",
+    "name": "Maki",
+    "attack": 49,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Tiene una capacidad de moverse inmensamente rápido que sus golpes sean letales para cualquiera."
+  },
+  {
+    "id": "CARD-015",
+    "name": "Toji",
+    "attack": 55,
+    "defense": 0,
+    "hp": 1000,
+    "type": "Ataque",
+    "ability": "Tiene mucha fuerza, la suficiente para romperte los huesos."
+  },
+  {
+    "id": "CARD-016",
+    "name": "Duolingo Prime",
+    "attack": 0,
+    "defense": 80,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Hay una probabilidad de 10% que si no has hecho su racha la defensa baja a un 50%."
+  },
+  {
+    "id": "CARD-017",
+    "name": "Groot",
+    "attack": 0,
+    "defense": 33,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa su poder para hacer una barrera de madera."
+  },
+  {
+    "id": "CARD-018",
+    "name": "Robot-RA5",
+    "attack": 0,
+    "defense": 84,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa su tecnología para destruir proyectiles o golpes del enemigo."
+  },
+  {
+    "id": "CARD-019",
+    "name": "America",
+    "attack": 0,
+    "defense": 68,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa su escudo para proteger, pero hay una probabilidad del 2% que se rompa y baje la defensa a un 33%."
+  },
+  {
+    "id": "CARD-020",
+    "name": "Rentarou",
+    "attack": 0,
+    "defense": 74,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Con el poder del amor protege tus cartas bastante bien."
+  },
+  {
+    "id": "CARD-021",
+    "name": "Inosuke",
+    "attack": 0,
+    "defense": 70,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa su userstand para defender un 70% todas las cartas."
+  },
+  {
+    "id": "CARD-022",
+    "name": "Frestzu",
+    "attack": 0,
+    "defense": 60,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa su forma para desviar los proyectiles donde su eficiencia es de un 60% que ocurra."
+  },
+  {
+    "id": "CARD-023",
+    "name": "METALRTE3481",
+    "attack": 0,
+    "defense": 88,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa su tecnología para crear un escudo impenetrable."
+  },
+  {
+    "id": "CARD-024",
+    "name": "Kinger",
+    "attack": 0,
+    "defense": 50,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Hay una probabilidad del 50% que Kinger use su ingenio para proteger un 50% tus cartas."
+  },
+  {
+    "id": "CARD-025",
+    "name": "Hakari",
+    "attack": 0,
+    "defense": 100,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Hace bastantes apuestas y una probabilidad de 33% que salve a un 100% tus cartas."
+  },
+  {
+    "id": "CARD-026",
+    "name": "All mithg",
+    "attack": 0,
+    "defense": 70,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Protege de cualquier impacto con su fuerza y bondad."
+  },
+  {
+    "id": "CARD-027",
+    "name": "Mikie Prime",
+    "attack": 0,
+    "defense": 50,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa la mausque herramienta."
+  },
+  {
+    "id": "CARD-028",
+    "name": "Link",
+    "attack": 0,
+    "defense": 50,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa la trifuerza para proteger un 50% de tus cartas."
+  },
+  {
+    "id": "CARD-029",
+    "name": "Pepsiman",
+    "attack": 0,
+    "defense": 30,
+    "hp": 1000,
+    "type": "Defensa",
+    "ability": "Usa latas refrescantes de Pepsi para hacer que tus cartas se fortalezcan un 30% y hace un muro de latas."
+  },
+  {
+    "id": "CARD-030",
+    "name": "Susie's Idea",
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Tus cartas puede que se recuperen con una probabilidad del 20%."
+  },
+  {
+    "id": "CARD-031",
+    "name": "Jesús (Básquetbol)",
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Estunea al contrincante un turno y hay una probabilidad del 10% que sean 2 turnos."
+  },
+  {
+    "id": "CARD-032",
+    "name": "Gato",
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Robas una carta al azar del contrincante."
+  },
+  {
+    "id": "CARD-033",
+    "name": "7 palabras... ESENCIA 🗿",
+    "attack": 55,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Potencias los ataques a un 55 más de ataque."
+  },
+  {
+    "id": "CARD-034",
+    "name": "Trituradora / Molino",
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Quita la carta del contrincante y hace que sea inservible y sin uso alguno."
+  },
+  {
+    "id": "CARD-035",
+    "name": "Tuve fe",
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Probabilidad del 49% de que el ataque o potenciador no haga efecto."
+  },
+  {
+    "id": "CARD-036",
+    "name": "Tenías",
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Robas una carta que el contrincante ya haya utilizado en los pasados 3 turnos."
+  },
+  {
+    "id": "CARD-037",
+    "name": "Bloqueo Bloqueo",
+    "attack": 0,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Hace que la carta del contrincante del pasado turno esté bloqueada por el siguiente turno."
+  },
+  {
+    "id": "CARD-038",
+    "name": "Daga",
+    "attack": 80,
+    "defense": 0,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Hace que los ataques sean más letales al contrincante infligiendo un 80% más de daño."
+  },
+  {
+    "id": "CARD-039",
+    "name": "Dedo de Sukuna",
+    "attack": 0,
+    "defense": 67,
+    "hp": 0,
+    "type": "Potenciador",
+    "ability": "Potencia las defensas un 67%."
+  }
+]
